@@ -62,9 +62,7 @@ Dự án này thực hiện kiểm thử chức năng đăng nhập của một 
 4. **Sử dụng Postman** để kiểm thử các API đã được triển khai.
 
 ## 📞 Liên Hệ
-- **Nguyễn Chiến**  
+- **Đình Chiến**  
 - Email: [2151053006chien@ou.edu.vn](mailto:2151053006chien@ou.edu.vn)
 
 ---
-
-*Chúc bạn thành công với dự án kiểm thử của mình!*
