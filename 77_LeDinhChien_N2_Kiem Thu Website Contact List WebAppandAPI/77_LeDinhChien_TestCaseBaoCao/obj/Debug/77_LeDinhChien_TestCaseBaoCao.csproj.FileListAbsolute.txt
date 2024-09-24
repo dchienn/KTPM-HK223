@@ -1,0 +1,50 @@
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\selenium-manager\linux\selenium-manager
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\selenium-manager\macos\selenium-manager
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC1_77.csv
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\77_LeDinhChien_TestCaseBaoCao.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\77_LeDinhChien_TestCaseBaoCao.pdb
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Newtonsoft.Json.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\WebDriver.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Newtonsoft.Json.xml
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\WebDriver.xml
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.csproj.AssemblyReference.cache
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.csproj.CoreCompileInputs.cache
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.csproj.CopyComplete
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.dll
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.pdb
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC2_77.csv
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC3_77.csv
+D:\77_LeDinhChien_N2_Kiem Thu Website Contact List Web App and API\77_LeDinhChien_TestCaseBaoCao\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC4_77.csv
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\selenium-manager\linux\selenium-manager
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\selenium-manager\macos\selenium-manager
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC2_77.csv
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC3_77.csv
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC1_77.csv
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\DataTestTC4_77.csv
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\77_LeDinhChien_TestCaseBaoCao.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\77_LeDinhChien_TestCaseBaoCao.pdb
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Newtonsoft.Json.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\WebDriver.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\Newtonsoft.Json.xml
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\bin\Debug\WebDriver.xml
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.csproj.AssemblyReference.cache
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.csproj.CoreCompileInputs.cache
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.csproj.CopyComplete
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.dll
+D:\KTPM\77_LeDinhChien_N2_Kiem Thu Website Contact List WebAppandAPI\77_LeDinhChien_TestCaseBaoCao\obj\Debug\77_LeDinhChien_TestCaseBaoCao.pdb
